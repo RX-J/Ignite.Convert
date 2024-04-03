@@ -41,7 +41,7 @@ Console.WriteLine (b); // Result: 20
 
 # Call the Enumerable conversion functions
 
-**You can use the Ignite Library to convert Enumerable into each other**
+**You can use the Ignite library to convert Enumerable into each other**
 
 ```cs
 var a = new byte[] { 1, 2, 3, 4, 5 };
