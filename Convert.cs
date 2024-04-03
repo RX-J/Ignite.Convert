@@ -1,5 +1,5 @@
 namespace Ignite {
-    internal static class Convert {
+    public static class Convert {
         public static T To<T> (this object? value)
             => Primitive<T> (value);
         public static T Primitive<T> (object? value) {
